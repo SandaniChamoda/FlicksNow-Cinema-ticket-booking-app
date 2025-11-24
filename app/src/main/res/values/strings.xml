@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Cinema Ticket Booking</string>
+
+    <!-- Onboarding Screen 1 -->
+    <string name="onboard1_title">Buy Movie Ticket at Home</string>
+    <string name="onboard1_description">Buy movie tickets online from comfort of your home for all the latest movies playing in Sri Lanka at cinema such island-wide</string>
+
+    <!-- Onboarding Screen 2 -->
+    <string name="onboard2_title">Find your favorite cinema theatre</string>
+    <string name="onboard2_description">You can choose your favorite cinema theatre, purchase your movie tickets at home. Save your time.</string>
+
+    <!-- Onboarding Screen 3 -->
+    <string name="onboard3_title">Select Your Seat &amp; pay online</string>
+    <string name="onboard3_description">You can book your favorite seat area, find out seat availability &amp; order your movie snacks online, dont worry about anything</string>
+
+    <!-- Buttons -->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Add these to your existing strings.xml -->
+    <string name="app_name_display">FlicksNow</string>
+    <string name="app_tagline">Your Cinema Experience Awaits</string>
+
+    <!-- Movie Details Screen -->
+    <string name="movie_title_placeholder">Movie Title</string>
+    <string name="movie_info_placeholder">2024 • 2h 30m • Action</string>
+    <string name="movie_description_part1">This film tells a captivating story filled with drama, emotion, and unforgettable moments. It follows characters who face challenges, make difficult choices, and discover the true meaning of love, friendship, or courage. The journey takes viewers through exciting twists and heartfelt scenes that leave a lasting impression. With a mix of suspense, humor, and touching emotions, the story appeals to audiences of all ages.</string>
+    <string name="movie_description_part2">The performances bring the characters to life, making the experience both entertaining and meaningful. Overall, it is a timeless tale that shows how ordinary lives can become extraordinary through hope and determination.</string>
+    <string name="movie_cast">Cast : Emma Watson and Adam Luke</string>
+    <string name="book_ticket">Book Ticket</string>
+    <string name="unknown_movie">Unknown Movie</string>
+
+    <!-- Menu Screen -->
+    <string name="settings">Settings</string>
+    <string name="profile_name">Alfred Daniel</string>
+    <string name="profile_job">Product/UI Designer</string>
+    <string name="other_settings">Other settings</string>
+    <string name="profile_details">Profile details</string>
+    <string name="password">Password</string>
+    <string name="notifications">Notifications</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="about_application">About application</string>
+    <string name="help_faq">Help/FAQ</string>
+    <string name="log_out">Log Out</string>
+</resources>

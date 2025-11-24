@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CinemaTicketBooking" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_purple</item>
+        <item name="colorPrimaryVariant">@color/background_dark</item>
+        <item name="colorOnPrimary">@color/accent_white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary_red</item>
+        <item name="colorSecondaryVariant">@color/secondary_gray</item>
+        <item name="colorOnSecondary">@color/accent_white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/primary_dark</item>
+        <!-- Background color -->
+        <item name="android:windowBackground">@color/primary_dark</item>
+        <!-- Navigation bar color -->
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+    </style>
+
+    <!-- Add this style to your themes.xml -->
+    <style name="SplashTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+
+    <style name="SwitchTheme" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/primary_purple</item>
+        <item name="android:colorForeground">@color/accent_white</item>
+    </style>
+</resources>
