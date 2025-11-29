@@ -11,7 +11,7 @@
 
     <!-- Onboarding Screen 3 -->
     <string name="onboard3_title">Select Your Seat &amp; pay online</string>
-    <string name="onboard3_description">You can book your favorite seat area, find out seat availability &amp; order your movie snacks online, dont worry about anything</string>
+    <string name="onboard3_description">You can book your favorite seat area, find out seat availability and  order your movie snacks online, don't worry about anything</string>
 
     <!-- Buttons -->
     <string name="skip">Skip</string>
